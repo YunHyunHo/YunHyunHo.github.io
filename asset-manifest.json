@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22ae2ab0.css",
+    "main.js": "/static/js/main.3dd72aba.js",
+    "static/js/453.c53055bc.chunk.js": "/static/js/453.c53055bc.chunk.js",
+    "static/media/phone03.png": "/static/media/phone03.d31e7b3b5fe2b9467382.png",
+    "static/media/paybackBanner.png": "/static/media/paybackBanner.b7b73ae978dfebbe5499.png",
+    "static/media/phone01.png": "/static/media/phone01.be67933748869a3e3c31.png",
+    "static/media/phoneSub02.png": "/static/media/phoneSub02.3a286e1d045f2a16b21b.png",
+    "static/media/phone04.png": "/static/media/phone04.47fa9bbd010d04595cc1.png",
+    "static/media/phoneSub01.png": "/static/media/phoneSub01.004ff0d6cf4d0744383d.png",
+    "static/media/paybackCoin.png": "/static/media/paybackCoin.98d34eae6aa15b61b942.png",
+    "static/media/calulatorBanner.png": "/static/media/calulatorBanner.2041562cf8c5ca372509.png",
+    "static/media/phone02.png": "/static/media/phone02.866273f7fefc0e040334.png",
+    "static/media/mainEventBanner.png": "/static/media/mainEventBanner.2309b2030964dcc60dfb.png",
+    "static/media/section10banner.png": "/static/media/section10banner.11165638adad70ee240d.png",
+    "static/media/Waiting.png": "/static/media/Waiting.1879cfc6d8bba2fae0d4.png",
+    "static/media/logo02.png": "/static/media/logo02.fba843abd9698844c311.png",
+    "static/media/section07banner.png": "/static/media/section07banner.af95ea25523c11a4cd49.png",
+    "static/media/section09banner.png": "/static/media/section09banner.843164d6047e9a3fb31d.png",
+    "static/media/section08banner.png": "/static/media/section08banner.1775ac67a633f3e333b0.png",
+    "static/media/safetyBook.png": "/static/media/safetyBook.80d387a03f2706415edc.png",
+    "static/media/logoIcon.png": "/static/media/logoIcon.d7f07230a50c1069181c.png",
+    "static/media/simple.png": "/static/media/simple.f5f4684696d8f7e55d81.png",
+    "static/media/ManyUsersIcon.png": "/static/media/ManyUsersIcon.c4dc3692a3dbf16d33c3.png",
+    "static/media/BicLogo.png": "/static/media/BicLogo.c9193a94cad2d96fdbdc.png",
+    "static/media/blackLogo.png": "/static/media/blackLogo.d129e44c5c039d2d9b33.png",
+    "static/media/OfficialAgreementIcon.png": "/static/media/OfficialAgreementIcon.6450e14859188767846d.png",
+    "static/media/BigDataIcon.png": "/static/media/BigDataIcon.8aae76871418b899b8dd.png",
+    "static/media/Coin_perspective_matte_s 1.png": "/static/media/Coin_perspective_matte_s 1.84c7f08d41a0957d2610.png",
+    "index.html": "/index.html",
+    "main.22ae2ab0.css.map": "/static/css/main.22ae2ab0.css.map",
+    "main.3dd72aba.js.map": "/static/js/main.3dd72aba.js.map",
+    "453.c53055bc.chunk.js.map": "/static/js/453.c53055bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ae2ab0.css",
+    "static/js/main.3dd72aba.js"
+  ]
+}
